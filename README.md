@@ -19,10 +19,10 @@ Built with:
 ## 📸 Demo
 
 ### 🧠 Gender & Age Detection
-![Gender and Age Detection](assets/demo1.jpg)
+![Gender and Age Detection](age and gender.jpg)
 
 ### ✋ Help Gesture Recognition
-![Help Gesture](assets/help_gesture_demo.gif)
+![Help Gesture](demo.jpg)
 
 
 1. Clone this repo:
