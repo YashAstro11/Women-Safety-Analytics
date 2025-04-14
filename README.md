@@ -16,6 +16,15 @@ Built with:
 - HELP gesture detection (raise all fingers gesture)
 - Count and display of males and females in frame
 
+## 📸 Demo
+
+### 🧠 Gender & Age Detection
+![Gender and Age Detection](assets/demo1.jpg)
+
+### ✋ Help Gesture Recognition
+![Help Gesture](assets/help_gesture_demo.gif)
+
+
 1. Clone this repo:
    ```bash
    git clone https://github.com/YashAstro11/Women-Safety-Analytics.git
